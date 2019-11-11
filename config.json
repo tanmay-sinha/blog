@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/coding thunder",
+        "prod_uri":"mysql://root:@localhost/coding thunder",
+        "fb_url":"https://facebook.com/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "blog_name":"Coding Super",
+        "tag_line":"Our heaven",
+        "about_text":"Hi , My name is Tanmay.I am a software developer.",
+        "no_of_post":3,
+        "login_image":"login.svg",
+        "admin_user":"tanmay",
+        "admin_password":"helloworld",
+        "upload_location":"D:\\web1\\static"
+    }
+}
