@@ -13,7 +13,7 @@
         "no_of_post":3,
         "login_image":"login.svg",
         "admin_user":"tanmay",
-        "admin_password":"helloworld",
+        "admin_password":"password",
         "upload_location":"D:\\web1\\static"
     }
 }
